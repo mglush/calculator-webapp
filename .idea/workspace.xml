@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4c77b0a-7aa1-480b-938c-8a8084dd6ac0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/calculator_backend/backend.dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/default-development/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/default-development/0.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/default-development/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/default-development/index.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/default-development/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/default-development/index.pack.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_backend/backend.dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_backend/backend.dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677954902361</updated>
       <workItem from="1677954905546" duration="162000" />
-      <workItem from="1677956407173" duration="3717000" />
+      <workItem from="1677956407173" duration="6099000" />
     </task>
     <servers />
   </component>
