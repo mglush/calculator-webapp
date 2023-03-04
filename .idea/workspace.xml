@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4c77b0a-7aa1-480b-938c-8a8084dd6ac0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/calculator_frontend/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677954902361</updated>
       <workItem from="1677954905546" duration="162000" />
-      <workItem from="1677956407173" duration="7457000" />
+      <workItem from="1677956407173" duration="8508000" />
     </task>
     <servers />
   </component>

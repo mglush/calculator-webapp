@@ -1,0 +1,12 @@
+version: '3'
+services:
+  calculator_frontend:
+    image: calculator_frontend:latest
+    environment:
+      PORT: 3000
+    ports:
+      - 3000:3000
+  calculator_backend:
+    image: calculator_backend:latest
+    ports:
+      - 8080:8080
