@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculator_backend/restbed" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculator_backend/restbed/dependency/asio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculator_backend/restbed/dependency/catch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculator_backend/restbed/dependency/openssl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculator_backend/restbed/dependency/openssl/boringssl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculator_backend/restbed/dependency/openssl/krb5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculator_backend/restbed/dependency/openssl/pyca-cryptography" vcs="Git" />
+  </component>
+</project>

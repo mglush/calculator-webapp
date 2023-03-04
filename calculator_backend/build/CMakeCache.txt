@@ -205,7 +205,7 @@ CMAKE_STATIC_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 CMAKE_STRIP:FILEPATH=/Library/Developer/CommandLineTools/usr/bin/strip
 
 //No help, variable specified on the command line.
-CMAKE_TOOLCHAIN_FILE:UNINITIALIZED=/Users/glush/vcpkg/scripts/buildsystems/vcpkg.cmake
+CMAKE_TOOLCHAIN_FILE:UNINITIALIZED=/Users/glush/IdeaProjects/calculator_web_app/vcpkg/scripts/buildsystems/vcpkg.cmake
 
 //If this value is on, makefiles will be generated without the
 // .SILENT directive, and all commands will be echoed to the console
@@ -221,6 +221,12 @@ CalculatorAPI_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 CalculatorAPI_SOURCE_DIR:STATIC=/Users/glush/IdeaProjects/calculator_web_app/calculator_backend
+
+//Path to a file.
+restbed_PROJECT:PATH=restbed_PROJECT-NOTFOUND
+
+//Path to a file.
+restbed_SOURCE:PATH=/Users/glush/IdeaProjects/calculator_web_app/calculator_backend/restbed
 
 
 ########################

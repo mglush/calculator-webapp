@@ -13,20 +13,19 @@ CalcResourceFactory::CalcResourceFactory() {
         "/{num1: [-+]?[0-9]*\\.?[0-9]*}"
         "/{num2: [-+]?[0-9]*\\.?[0-9]*}"
     );
-    resource_->set_related_handler("Get", [&](const shared_ptr<Session> session){
+    resource_->set_method_handler("GET", [&](const shared_ptr<Session> session){
         get_handler(session);
     });
 }
 
-tuple<float, float, string> CalcResourceFactory::get_path_parameters(const shared_ptr<Session> session) {
-    const shared_ptr<Session> session;
+tuple<float, float, string> CalcResourceFactory::get_path_parameters(
+    const shared_ptr<Session> session) {
+        const auto& request = session->get_request();
+        auto operation = request->get_path_parameter("operation");
+        auto num1 = std::atof(request->get_path_parameter("num1").c_str());
+        auto num2 = std::atof(request->get_path_parameter("num2").c_str());
 
-    const auto& request = session->get_request();
-    auto operation = request->get_path_parameter("operation");
-    auto num1 = atof(request->get_path_parameter("num1"));
-    auto num2 = atof(request->get_path_parameter("num2"));
-
-    return make_tuple(num1, num2, operation);
+        return make_tuple(num1, num2, operation);
 }
 
 float CalcResourceFactory::calculate(float num1, float num2, string operation) {

@@ -5,78 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9722c31-9c54-4f46-aa67-82d58b0bcf87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/3.25.1/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/3.25.1/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/3.25.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/3.25.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/3.25.1/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/3.25.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/3.25.1/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/3.25.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/3.25.1/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/CMakeError.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/CalculatorAPI.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/CalculatorAPI.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/CalculatorAPI.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/CalculatorAPI.dir/compiler_depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/CalculatorAPI.dir/compiler_depend.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/CalculatorAPI.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/CalculatorAPI.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/CalculatorAPI.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/CalculatorAPI.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CalcResourceFactory.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CalcService.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/CalcServiceSettingsFactory.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/3.25.1/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/3.25.1/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/3.25.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/3.25.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/3.25.1/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/3.25.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/3.25.1/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/3.25.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/3.25.1/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CMakeError.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/compiler_depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/compiler_depend.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/Progress/1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/Progress/count.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/build/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/include/CalcResourceFactory.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/include/CalcService.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/include/CalcServiceSettingsFactory.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/include/IResourceFactory.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/include/IService.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/include/IServiceSettingsFactory.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/include/json.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator_backend/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/CalcResourceFactory.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/CalcResourceFactory.cpp.o.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/CalcService.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/CalcService.cpp.o.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/CalcServiceSettingsFactory.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/CalcServiceSettingsFactory.cpp.o.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/compiler_depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/main.cpp.o.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator_backend/build/CalculatorAPI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator_backend/restbed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_backend/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_backend/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_backend/CalcResourceFactory.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_backend/CalcResourceFactory.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_backend/CalcServiceSettingsFactory.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_backend/CalcServiceSettingsFactory.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_backend/build/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/CalculatorAPI.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/Progress/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_backend/build/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_backend/include/IServiceSettingsFactory.h" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_backend/include/IServiceSettingsFactory.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_backend/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_backend/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/default-development/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/default-development/0.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/default-development/1.pack" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/default-development/1.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/default-development/2.pack" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/default-development/2.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/default-development/3.pack" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/default-development/3.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/default-development/4.pack" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/default-development/4.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/default-development/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/default-development/index.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/default-development/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_frontend/node_modules/.cache/default-development/index.pack.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_frontend/src/Calculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_frontend/src/Calculator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_frontend/src/CalculatorApi.js" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_frontend/src/CalculatorApi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_frontend/src/CalculatorButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_frontend/src/CalculatorButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_frontend/src/CalculatorDisplay.js" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_frontend/src/CalculatorDisplay.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_frontend/src/CalculatorPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_frontend/src/CalculatorPanel.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677726881379</updated>
-      <workItem from="1677727478436" duration="11033000" />
+      <workItem from="1677727478436" duration="17791000" />
     </task>
     <servers />
   </component>

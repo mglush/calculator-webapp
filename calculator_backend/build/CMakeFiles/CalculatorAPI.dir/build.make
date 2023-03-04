@@ -140,6 +140,7 @@ CalculatorAPI: CMakeFiles/CalculatorAPI.dir/CalcResourceFactory.cpp.o
 CalculatorAPI: CMakeFiles/CalculatorAPI.dir/CalcService.cpp.o
 CalculatorAPI: CMakeFiles/CalculatorAPI.dir/CalcServiceSettingsFactory.cpp.o
 CalculatorAPI: CMakeFiles/CalculatorAPI.dir/build.make
+CalculatorAPI: /Users/glush/IdeaProjects/calculator_web_app/calculator_backend/restbed/distribution/library/librestbed.a
 CalculatorAPI: CMakeFiles/CalculatorAPI.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/glush/IdeaProjects/calculator_web_app/calculator_backend/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable CalculatorAPI"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CalculatorAPI.dir/link.txt --verbose=$(VERBOSE)
