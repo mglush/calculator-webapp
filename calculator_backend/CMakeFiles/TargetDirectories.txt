@@ -1,0 +1,3 @@
+/Users/glush/IdeaProjects/calculator_web_app/calculator_backend/CMakeFiles/CalculatorAPI.dir
+/Users/glush/IdeaProjects/calculator_web_app/calculator_backend/CMakeFiles/edit_cache.dir
+/Users/glush/IdeaProjects/calculator_web_app/calculator_backend/CMakeFiles/rebuild_cache.dir

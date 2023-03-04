@@ -1,10 +1,10 @@
-import React from 'react'
+import React from 'react';
 
 function CalculatorButton(props) {
 
-    return (
+    return(
         <input
-            type='button'
+            type="button"
             value={props.caption}
             className={props.caption === "=" ? "calculator-equal-button" : null}
             onClick={props.onClick}
