@@ -3,12 +3,14 @@
 
 ## How To Run
 1) Clone the git repository, and cd into it.
+
 '''
 git clone git@github.com:mglush/calculator_web_app.git
 cd calculator_web_app
 '''
 
 2) Compile and run the backend API.
+
 '''
 cmake -Hcalculator_backend -Bcalculator_backend/build
 cmake --build calculator_backend/build --target all --config Release
@@ -16,6 +18,7 @@ calculator_backend/build/CalculatorAPI
 '''
 
 3) Open a NEW terminal window, and start the frontend.
+
 '''
 cd calculator_frontend
 npm start
