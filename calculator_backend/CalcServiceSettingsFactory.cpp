@@ -7,7 +7,7 @@ CalcServiceSettingsFactory::CalcServiceSettingsFactory() {
     settings_->set_default_header("Access-Control-Allow-Origin", "*"); // prevents CORS errors.
 }
 
-int getEnvVar( std::string const & key ) const {
+int getEnvVar( std::string const & key ) {
     char* val = getenv( key.c_str() );
     return val == NULL ? 80 : atoi(val);
 }
