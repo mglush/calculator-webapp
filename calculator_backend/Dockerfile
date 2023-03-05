@@ -35,7 +35,7 @@ RUN cmake -Hcalculator_backend -Bcalculator_backend/build
 RUN cmake --build calculator_backend/build --target all --config Release
 
 # expose the port we will run the backend on.
-EXPOSE 8080
+EXPOSE $PORT
 
 # run the backend.
 CMD calculator_backend/build/CalculatorAPI

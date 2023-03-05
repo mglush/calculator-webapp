@@ -7,7 +7,7 @@ function App() {
     return (
         <div className="App">
             <header className="App-header">
-                <Calculator calculatorApi={new CalculatorApi('http://127.0.0.1:8080')} />
+                <Calculator calculatorApi={new CalculatorApi((process.env.REACT_APP_PROXY_API))} />
             </header>
         </div>
     );

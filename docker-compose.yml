@@ -4,6 +4,7 @@ services:
     image: calculator_frontend:latest
     environment:
       PORT: 3000
+      REACT_APP_PROXY_API: http://localhost
     ports:
       - 3000:3000
   calculator_backend:

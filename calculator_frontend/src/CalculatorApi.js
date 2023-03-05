@@ -1,6 +1,7 @@
 class CalculatorApi {
 
     constructor(serviceAddress) {
+        alert(serviceAddress);
         this.serviceAddress = serviceAddress;
     }
 
