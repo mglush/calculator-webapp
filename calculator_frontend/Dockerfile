@@ -1,16 +1,13 @@
 FROM node
 
 # set up new directory.
-WORKDIR App
+WORKDIR App/calculator_frontend
 
 RUN apt-get update && apt-get install -y \
     software-properties-common
 
 # clone project from git to environment.
-RUN git clone https://github.com/mglush/calculator-webapp.git
-
-# cd into the project frontend.
-WORKDIR calculator-webapp/calculator_frontend
+COPY . .
 
 # expose the port we will run the backend on.
 EXPOSE $PORT

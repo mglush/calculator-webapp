@@ -9,7 +9,7 @@
 CalcResourceFactory::CalcResourceFactory() {
     resource_ = make_shared<Resource>();
     resource_->set_path(
-        "/{operation: add|substract|multiply|divide}"
+        "/{operation: add|subtract|multiply|divide}"
         "/{num1: [-+]?[0-9]*\\.?[0-9]*}"
         "/{num2: [-+]?[0-9]*\\.?[0-9]*}"
     );

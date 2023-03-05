@@ -10,4 +10,4 @@ services:
   calculator_backend:
     image: calculator_backend:latest
     ports:
-      - 8080:8080
+      - 80:80
