@@ -4,7 +4,6 @@
 
 class CalcServiceSettingsFactory : public IServiceSettingsFactory {
     shared_ptr<restbed::Settings> settings_;
-    int getEnvVar( std::string const & key );
 public:
     CalcServiceSettingsFactory();
     shared_ptr<restbed::Settings> get_settings() const final;
