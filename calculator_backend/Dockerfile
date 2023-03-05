@@ -1,6 +1,5 @@
 FROM ubuntu:22.10
-# set up new directory.
-WORKDIR temp
+
 # download git.
 RUN apt-get update && \
     apt-get upgrade -y && \
@@ -29,14 +28,13 @@ WORKDIR restbed/build
 RUN cmake -DBUILD_SSL="NO" -DBUILD_TESTS="NO" ..
 RUN make install
 
+# expose the port we will run the backend on.
+EXPOSE $PORT
+
 # go back to the calculator-webapp directory and compile the backend.
 WORKDIR ../../..
 RUN cmake -Hcalculator_backend -Bcalculator_backend/build
 RUN cmake --build calculator_backend/build --target all --config Release
-
-# expose the port we will run the backend on.
-EXPOSE $PORT
-
 # run the backend.
 CMD calculator_backend/build/CalculatorAPI
 
