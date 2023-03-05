@@ -6,10 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="f4c77b0a-7aa1-480b-938c-8a8084dd6ac0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator_backend/CalcResourceFactory.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_backend/CalcResourceFactory.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_backend/CalcServiceSettingsFactory.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_backend/CalcServiceSettingsFactory.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calculator_backend/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_backend/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator_frontend/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_frontend/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_backend/include/CalcServiceSettingsFactory.h" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_backend/include/CalcServiceSettingsFactory.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_backend/include/IServiceSettingsFactory.h" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_backend/include/IServiceSettingsFactory.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_backend/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_backend/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_backend/restbed" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +58,7 @@
       <updated>1677954902361</updated>
       <workItem from="1677954905546" duration="162000" />
       <workItem from="1677956407173" duration="17975000" />
-      <workItem from="1678037306536" duration="7859000" />
+      <workItem from="1678037306536" duration="12523000" />
     </task>
     <servers />
   </component>

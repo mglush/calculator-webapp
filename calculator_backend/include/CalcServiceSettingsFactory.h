@@ -3,8 +3,9 @@
 #include "IServiceSettingsFactory.h"
 
 class CalcServiceSettingsFactory : public IServiceSettingsFactory {
-    shared_ptr<Settings> settings_;
+    shared_ptr<restbed::Settings> settings_;
+    int getEnvVar( std::string const & key ) const;
 public:
     CalcServiceSettingsFactory();
-    shared_ptr<Settings> get_settings() const final;
+    shared_ptr<restbed::Settings> get_settings() const final;
 };
